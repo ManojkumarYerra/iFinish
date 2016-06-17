@@ -1,0 +1,420 @@
+@media (min-width: 1400px){
+ .container{
+  max-width: 1350px;
+ }
+
+}
+@media (min-width: 900px)and (max-width:999px){
+
+		.digitalTime{
+		margin-top: 150px;
+	}
+	.digitalTime span{
+		font-size: 42px;
+	}
+}
+@media (min-width: 800px)and (max-width:899px){
+
+	.digitalTime{
+		margin-top: 150px;
+	}
+	.digitalTime span{
+		font-size: 42px;
+	}
+}
+@media (min-width: 700px)and (max-width:799px){
+
+	.digitalTime{
+		margin-top: 150px;
+	}
+	.digitalTime span{
+		font-size: 42px;
+	}
+}
+@media (min-width: 400px)and (max-width:699px){
+	.findOut {
+    
+    height: auto;
+	padding:0px !important;
+    margin: 15px auto 0 !important;
+    width: 160px !important;
+}
+
+	.digitalTime{
+		margin-top: 150px;
+	}
+	.digitalTime span{
+		font-size: 42px;
+	}
+}
+@media (min-width: 320px)and (max-width:399px){
+	.findOut {
+	padding:0px !important;
+    margin: 15px auto 0 !important;
+    width: 100px !important;
+}
+
+	.digitalTime{
+		margin-top: 10px !important;
+	}
+	.digitalTime span{
+		font-size: 22px !important;
+	}
+	.findOut span{
+		font-size: 11px !important;
+    padding: 5px !important;
+	}
+}
+@media (min-width: 992px){
+	#homeBanner{
+		height: 600px;
+	}
+	.logo {
+	    padding: 38px 0 0 15px;
+	}
+	#nav-menu ul li a{
+		padding: 0 10px;
+	}
+
+	.userLastName{
+		font-size: 12px;
+	}
+	.userFirstName{
+		font-size: 16px;
+	}
+	.slider-content h2{
+		margin-top: 200px;
+		color:#fff;
+		font-size: 30px;
+	}
+	.digitalTime{
+		//margin-top: 150px;
+	}
+	.digitalTime span{
+		font-size: 52px;
+	}
+	
+	.imgPlace{
+		overflow: hidden;
+	}
+
+	
+}
+
+@media(max-width: 480px){
+	.event-border{
+		width: 100%;
+	}
+}
+@media(max-width: 767px){
+	#homeBanner .container{
+		padding: 0;
+	}
+	.userProfile{
+		height: 60px;
+		padding: 0;		
+	}
+	.profile_dropdown{
+		height: auto;
+	}
+	#homeBanner{
+		height: 100%;
+	}
+	#header{
+		height: 60px;
+		top: 0;
+	}
+	#header .navbar-default{
+		background-color: transparent;
+		border-color: transparent;
+		color: #fff;
+	}
+	#header .no-padding{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	#header .navbar-default .navbar-collapse{
+		background: #e0a806;
+		border-color: transparent;
+		position: relative;
+		z-index: 9999;
+	}
+	#header .navbar-nav{
+		margin-top:0;
+		margin-bottom: 0;
+	}
+	#header .navbar-default .navbar-nav>li>a{
+		color: #fff;
+	}
+	#header .navbar-default .navbar-nav>li.active>a{
+		color: #555;
+	}
+	#header .navbar-default .navbar-toggle{
+		border: none;
+	}
+	#header .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+		background-color: transparent
+	}
+	#header .navbar-default .navbar-toggle .icon-bar{
+		background-color: #e0a806;
+	}
+	.logo{
+		padding: 12px;
+	}
+	.digitalTime{
+		margin-top: 0;
+	}
+	.digitalTime span{
+		font-size: 24px;
+	}
+	.findOut{
+		width: auto;
+		padding: 20px 0;
+		margin: 72px auto 0;
+		background-color: #000;
+		height: auto;
+	}
+	.findOut span{
+		background: #e0a806;
+		font-size: 18px;
+		padding: 10px;
+	}
+	.profile-pic {
+		width: 50px;
+		height: 50px;
+		float: right;
+		border-radius: 50px;
+		border: 1px solid #fff;
+		overflow: hidden;
+		margin: 4px;
+		background: url('../images/profile-icon.png') -1px -6px no-repeat;
+	}
+	.massory-margins{
+		margin-top: 40px;
+	}
+	.massoryElem{
+		margin-bottom: 0;
+		min-height: auto;
+	}
+	.massoryElem:hover{
+		background-color: transparent;
+	}
+	.massoryContent{
+		background: #fff;
+		margin-bottom: 30px;
+	}
+	.event-name .skewHeader h3{
+		font-size: 16px;
+	}
+	.event-name p{
+		font-size: 13px;
+	}
+	.skewInnerHeader{
+		display: none;
+	}
+	.article_item .media-container img, .article_item .info-container{
+		width: 100%;
+	}
+	.eventsPrograms .marathon-listings{
+		text-align: center;
+	}
+	.eventtimings.pull-right{
+		float: none;
+	}
+	.eventsPrograms .marathon-listings .pull-right{
+		float: none !important;
+	}
+	.eventsPrograms .list-of-events .eventtimings{
+		margin: 10px 0 20px;
+	}
+	.comp_panel .userResult ul{
+		width: 400px;
+	}
+	footer{
+		height: auto;
+	}
+	.orders_panel .panel-body span{
+		float: right;
+	}
+	.results_list img.results-img{
+		width: 62px;
+		height: 56px;
+	}
+	.results_list{
+		padding: 10px 0;
+		text-align: center;
+	}
+	.orderCheckoutList{
+		padding: 0 10px 20px;
+	}
+	.table-responsive.orderCheckoutList{
+		border: none;
+	}
+	.table-responsive.orderCheckoutList>.table-bordered{
+		border: solid 1px #d9d9d9;
+		margin-bottom: 10px;
+	}
+	.orderCheckoutList ul span.event_img{
+		float: none;
+	}
+	.table-responsive.orderCheckoutList>.table>tbody>tr>td{
+		white-space: normal !important;
+	}	
+}
+@media(min-width: 768px){
+	.no-padding{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.col-if-sm-3{
+		width: 28%;
+	}
+	.col-if-sm-6{
+		width: 43%;
+	}
+	.eventsPrograms .list-of-events .noPadding{
+		padding: 0;
+	}
+	.eventsPrograms .list-of-events h4{
+		margin-top: 0;
+		margin-bottom: 5px;
+	}
+	.rank .left{
+		border-top-left-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+	.rank .right{
+		border: solid 1px #C1C1C1;
+		border-top-right-radius: 5px;
+		border-bottom-right-radius: 5px;
+		height: 40px;
+	}
+	.rank .left p{
+		white-space: nowrap;
+		text-overflow: ellipsis;
+		overflow: hidden;	
+	}
+	.right h2{
+		margin-top: 10px;
+	}
+	.termsPolicy .nav-tabs.nav-justified>li, .results-tab .nav-tabs.nav-justified>li{
+		display: inline-block;
+		width: auto;
+	}
+	#header.fixedHeader .navbar-collapse.collapse{
+		padding-top: 12px;
+	}
+	.checkoutDetails .panel-body{
+		float: left;
+		min-height: 50px;
+		width: 50%;
+	}
+	.checkoutDetails .media_order  .table{
+		width: 100%;
+	}
+	.eventsPrograms .list-of-events img.eventImg, .checkoutDetails .panel-body img{
+		width: 100%
+	}
+	.termsPolicy .nav-tabs.nav-justified>li{
+		display: inline-block;
+		width: auto;
+	}
+	.modal{
+		z-index: 9999;
+	}
+	/*.modal-dialog {
+		width: 315px;
+	}*/
+	.modal-body img{
+		width: 100%;
+	}
+	.printo-wrapper .printo_icon {
+		    margin-top: 60px;
+	}
+	.results_list{
+		background: url('../images/runner_icon.jpg') no-repeat #fff;
+		position: relative;
+		padding-left: 54px;
+		padding-top: 8px;
+		background-position: 6px;
+	}
+	.results_list p {
+		text-overflow: ellipsis;
+		overflow: hidden;
+		max-height: 30px;
+		white-space: nowrap;
+	}
+}
+@media(min-width: 980px){
+	.marathonDetails .noPaddingTab{
+		padding-right: 0;
+		padding-left: 15px;
+	}
+	.eventDetailsRightBlockWrap{
+		position: relative;
+	}
+
+}
+@media(max-width: 979px){
+	.charity_cause .brd_btm{
+		padding: 0 20px;
+	}
+	.eventsOrganisermap .input-group{
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	.charity_cause button.btn-submit{
+		margin-right: 20px;
+	}
+	.charity_cause .checkbox{
+		padding: 0 20px;
+	}
+	.userContent .nav-tabs li a{
+		font-size: 16px;
+	}
+	.event-details .eventLeft img{
+		width: 100%;
+	}
+}
+@media(min-width: 768px) and (max-width: 992px){
+	#homeBanner{
+	    height: 550px;	
+	}
+	.comp_panel .userResult ul{
+		width: 400px;
+	}
+	.logo img{
+		width: 100%;
+	}
+	#nav-menu ul li a{
+		padding: 0 9px;
+		font-size: 12px;
+	}
+	.logo {
+		padding: 38px 0 0 10px;
+	}
+	.userName{
+		height: 40px;
+		padding: 0 10px 0 0;
+	}
+	.profile-pic{
+		background: url('../images/profile-icon.png') 2px 1px no-repeat;
+		height: 55px;
+		margin-left: 25px;
+		margin-top: 2px;
+		width: 55px;
+	}
+	#header.fixedHeader #nav-menu ul li a{
+		font-size: 14px;
+		padding: 0 6px;
+	}
+	.container {
+		width: 760px;
+	}
+	.digitalTime{
+		margin-top: 100px;
+	}
+	.findOut{
+		margin: 0 auto;
+	}
+}
